@@ -1,0 +1,43 @@
+{
+  "basic":{
+    "image":"profile.png",
+    "name":"saisravs",
+    "email":"saidamodar9@gmail.com",
+    "number":"8498007727",
+    "address":"pragati college,surampalem."
+  },
+  "career":{
+    "info":"To pursue a challenging career"
+  },
+  "education":[
+    {
+      "institute":"pragati",
+      "degree":"btech",
+      "passout":"2021"
+    },
+    {
+      "institute":"sri chaitanya",
+      "degree":"inter",
+      "passout":"2017"
+    },
+    {
+      "institute":"narayana",
+      "degree":"ssc",
+      "passout":"2015"
+    }
+  ],
+  "skills":[
+    {
+      "title":"programming languages",
+      "content":["c,java"]
+    },
+    {
+      "title":"operating systems",
+      "content":["windows,linux"]
+    },
+    {
+      "title":"databases",
+      "content":["oracle,mysql,tinydb"]
+    }
+  ]
+}
